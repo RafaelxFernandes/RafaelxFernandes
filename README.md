@@ -3,14 +3,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm Rafael and I study <strong>Computer Science</strong> at the <strong>[Federal University of Rio de Janeiro](https://ufrj.br/en/)</strong>.
+  I'm Rafael and I study <strong>Computer Science</strong> at the <strong>Federal University of Rio de Janeiro (UFRJ)</strong> 👩🏻‍💻.
 </p>
 
 <p align="left">
   A little more about myself:
   <ul>
-    <li> Data Enginner at [OMS VODAN BR](https://github.com/oms-vodan)</li>
-    <li> Data Scientist at [UFRJ Analytica](https://ufrjanalytica.ml/)</li>
+    <li> Data Enginner at OMS VODAN BR: https://github.com/oms-vodan</li>
+    <li> Data Scientist at UFRJ Analytica: https://ufrjanalytica.ml/</li>
     <li> Currently studying Natural Language Processing for fun! 🤓 </li>
   </ul>
 </p>
@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  Actually I've done more, but some repositories are private 🤫 
+  Actually I've done more, but some repositories are private 🔒 
 </p>
 
 <br><br><br><br>
