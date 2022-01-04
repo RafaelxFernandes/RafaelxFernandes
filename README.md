@@ -9,9 +9,9 @@
 <p align="left">
   A little more about myself:
   <ul>
-    <li> Data Enginner at OMS VODAN BR: https://github.com/oms-vodan</li>
-    <li> Data Scientist at UFRJ Analytica: https://ufrjanalytica.ml/</li>
-    <li> Currently studying Natural Language Processing for fun! 🤓 </li>
+    <li> Data Enginner at <strong>VODAN BR</strong>: https://github.com/oms-vodan</li>
+    <li> Data Scientist at <strong>UFRJ Analytica</strong>: https://ufrjanalytica.ml/</li>
+    <li> Currently studying <strong>Natural Language Processing</strong> for fun! 🤓 </li>
   </ul>
 </p>
 
@@ -22,10 +22,6 @@
 <h2>These are my currents stats!</h2>
 <p>
   I'm working hard to improve them every day! 😤
-</p>
-
-<p>
-  Actually I've done more, but some repositories are private 🔒 
 </p>
 
 <br><br><br><br>
