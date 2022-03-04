@@ -9,8 +9,8 @@
 <p align="left">
   A little more about myself:
   <ul>
-    <li> Data Enginner at <strong>VODAN BR</strong>: https://vodanbr.github.io/</li>
     <li> Data Scientist at <strong>UFRJ Analytica</strong>: https://ufrjanalytica.ml/</li>
+    <li> Former Data Enginner at <strong>VODAN BR</strong>: https://vodanbr.github.io/</li>
     <li> Currently studying <strong>Natural Language Processing</strong> for fun! 🤓 </li>
   </ul>
 </p>
