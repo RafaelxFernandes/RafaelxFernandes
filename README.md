@@ -9,6 +9,7 @@
 <p align="left">
   A little more about myself:
   <ul>
+    <li> Researcher at <strong>Brazilian Institute of Information in Science and Technology (IBICT)</strong>: https://www.gov.br/ibict/pt-br</li>
     <li> Data Scientist at <strong>UFRJ Analytica</strong>: https://ufrjanalytica.ml/</li>
     <li> Former Data Enginner at <strong>VODAN BR</strong>: https://vodanbr.github.io/</li>
     <li> Currently studying <strong>Natural Language Processing</strong> for fun! 🤓 </li>
@@ -17,14 +18,20 @@
 
 <br><br><br><br>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=RafaelxFernandes&show_icons=true&title_color=#ff000000&text_color=#00ff00&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<div align="center">
+  <h2>These are my currents stats!</h2>
+  <p>
+    I'm working hard to improve them every day! 😤
+  </p>
+</div>
 
-<h2>These are my currents stats!</h2>
-<p>
-  I'm working hard to improve them every day! 😤
-</p>
+<div align="center">
+  <a href="https://github.com/davidneves11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelxFernandes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelxFernandes&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
-<br><br><br><br><br>
+<br><br>
 
 <div align="center">
 
