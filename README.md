@@ -10,7 +10,7 @@
   A little more about myself:
   <ul>
     <li> Researcher at <strong>Brazilian Institute of Information in Science and Technology (IBICT)</strong>: https://www.gov.br/ibict/pt-br</li>
-    <li> Data Scientist at <strong>UFRJ Analytica</strong>: https://ufrjanalytica.ml/</li>
+    <li> Data Scientist at <strong>UFRJ Analytica</strong>: https://analytica.ufrj.br/</li>
     <li> Former Data Enginner at <strong>VODAN BR</strong>: https://vodanbr.github.io/</li>
     <li> Currently studying <strong>Natural Language Processing</strong> for fun! 🤓 </li>
   </ul>
