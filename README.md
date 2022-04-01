@@ -9,9 +9,10 @@
 <p align="left">
   A little more about myself:
   <ul>
-    <li> Researcher at <strong>Brazilian Institute of Information in Science and Technology (IBICT)</strong>: https://www.gov.br/ibict/pt-br</li>
-    <li> Data Scientist at <strong>UFRJ Analytica</strong>: https://analytica.ufrj.br/</li>
-    <li> Former Data Enginner at <strong>VODAN BR</strong>: https://vodanbr.github.io/</li>
+    <li> Researcher at <a href="https://www.gov.br/ibict/pt-br">Brazilian Institute of Information in Science and Technology (IBICT)</a> </li>
+    <li> Data Scientist at <a href="https://analytica.ufrj.br/">UFRJ Analytica</a> </li>
+    <li> Former Data Enginner at <a href="https://vodanbr.github.io/">VODAN BR</a> </li>
+    <li> Former Front-end Developer at <a href="https://ejcm.com.br/">EJCM</a> </li>
     <li> Currently studying <strong>Natural Language Processing</strong> for fun! 🤓 </li>
   </ul>
 </p>
