@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  A little more about myself:
+  My professional experiences:
   <ul>
     <li> <strong>Junior Researcher</strong> at <a href="https://www.gov.br/ibict/pt-br">Brazilian Institute of Information in Science and Technology (IBICT)</a> </li>
     <li> Former <strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/">UFRJ Analytica</a> </li>
