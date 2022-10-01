@@ -42,7 +42,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
   </a>
 
-   <a href="https://www.linkedin.com/in/rafael-da-silva-fernandes-5a880a1b3/">
+   <a href="https://www.linkedin.com/in/rafael-da-silva-fernandes-5a880a1b3/?locale=en_US">
      <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
   
