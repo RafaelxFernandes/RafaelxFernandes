@@ -10,10 +10,9 @@
   My professional experiences include:
   <ul>
     <li><strong>Junior Researcher</strong> at <a href="https://www.gov.br/ibict/pt-br">Brazilian Institute of Information in Science and Technology (IBICT)</a> </li>
-    <li><strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/">UFRJ Analytica</a> </li>
     <li><strong>Data Enginner</strong> at <a href="https://vodanbr.github.io/">World Health Organization - Virus Outbreak Data Network (VODAN) Brazilian Implementation Network</a> </li>
+    <li><strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/">UFRJ Analytica</a> </li>
     <li><strong>Front-end Developer</strong> at <a href="https://ejcm.com.br/">EJCM Consulting (Junior Company)</a> </li>
-    <li> Currently studying <strong>Natural Language Processing</strong> for fun! 🤓 </li>
   </ul>
 </p>
 
