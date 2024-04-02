@@ -9,10 +9,10 @@
 <p align="left">
   My professional experiences include:
   <ul>
-    <li><strong>Junior Researcher</strong> at <a href="https://www.gov.br/ibict/pt-br">Brazilian Institute of Information in Science and Technology (IBICT)</a> </li>
-    <li><strong>Data Enginner</strong> at <a href="https://vodanbr.github.io/">World Health Organization - Virus Outbreak Data Network (VODAN) Brazilian Implementation Network</a> </li>
-    <li><strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/">UFRJ Analytica</a> </li>
-    <li><strong>Front-end Developer</strong> at <a href="https://ejcm.com.br/">EJCM Consulting (Junior Company)</a> </li>
+    <li><strong>Junior Researcher</strong> at <a href="https://www.gov.br/ibict/pt-br" target="_blank">Brazilian Institute of Information in Science and Technology (IBICT)</a> </li>
+    <li><strong>Data Enginner</strong> at <a href="https://vodanbr.github.io/" target="_blank">World Health Organization - Virus Outbreak Data Network (VODAN) Brazilian Implementation Network</a> </li>
+    <li><strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/" target="_blank">UFRJ Analytica</a> </li>
+    <li><strong>Front-end Developer</strong> at <a href="https://ejcm.com.br/" target="_blank">EJCM Consulting (Junior Company)</a> </li>
   </ul>
 </p>
 
@@ -26,9 +26,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/davidneves11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelxFernandes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelxFernandes&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelxFernandes&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
 <br><br>
