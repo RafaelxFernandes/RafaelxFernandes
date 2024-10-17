@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm Rafael, a <strong>Computer Science graduate</strong> from the <strong>Federal University of Rio de Janeiro (UFRJ) 🇧🇷</strong>, currently working as a <strong>Junior Software Engineer</strong> at <a href="https://www.ingensrl.com/it/" target="_blank">INGEN Srl</a> in Italy 🇮🇹 since July 2024. 👩🏻‍💻
+  I'm Rafael, a <strong>Computer Science graduate</strong> from the <strong>Federal University of Rio de Janeiro (UFRJ) 🇧🇷</strong>, currently living in Italy 🇮🇹 since July 2024. 👩🏻‍💻
 </p>
 
 <p align="left">
