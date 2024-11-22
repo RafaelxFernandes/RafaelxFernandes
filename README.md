@@ -64,6 +64,6 @@
   <h2>Want to get in touch with me? Here is how! 💌</h2> 
 
   <a href="mailto:rafaelfernandes@ic.ufrj.br"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rafael-da-silva-fernandes-5a880a1b3/?locale=en_US"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rafael-da-silva-fernandes-5a880a1b3/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/RafaelxFernandes"><img alt="Github" src="https://img.shields.io/github/followers/RafaelxFernandes?label=follow&style=social" height="28" /></a>
 </div>
