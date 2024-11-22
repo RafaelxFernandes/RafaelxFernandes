@@ -31,7 +31,6 @@
 <div align="center">
     <h1>Frameworks, Platforms and Libraries</h1>
     <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" /></a>
     <a href="https://dotnet.microsoft.com/" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /></a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" /></a>
 </div>
@@ -49,7 +48,6 @@
 
 <div align="center">
   <h1>Databases</h1>
-  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img alt="SQL Express" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 </div>
