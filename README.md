@@ -1,21 +1,35 @@
 <h1>Welcome to my profile! 😁</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
-  I'm Rafael, a <strong>Computer Science graduate</strong> from the <strong>Federal University of Rio de Janeiro (UFRJ)</strong> 🇧🇷, currently living in <strong>Italy</strong> 🇮🇹 since July 2024. 👩🏻‍💻
+  I'm Rafael, a <strong>Software Engineer</strong> and <strong>Computer Science graduate</strong> from the <strong>Federal University of Rio de Janeiro (UFRJ)</strong>. 🇧🇷👨‍💻 
+  
+  Passionate about <strong>software development</strong>, <strong>clean code</strong>, and <strong>problem-solving</strong>. 🤓
+  
+  My main focus is on <strong>Data Science</strong> and <strong>Machine Learning</strong>, exploring how AI can drive innovation and efficiency. 🚀 
 </p>
 
 <p align="left">
-  My professional experiences include:
+  <h2> 💼 My professional experiences include: </h2> 
   <ul>
-    <li><strong>Software Engineer</strong> at <a href="https://www.ingensrl.com/it/" target="_blank">INGEN Srl</a> </li>
-    <li><strong>Researcher</strong> at <a href="https://www.gov.br/ibict/pt-br" target="_blank">Brazilian Institute of Information in Science and Technology (IBICT)</a></li>
-    <li><strong>Data Engineer</strong> at <a href="https://vodanbr.github.io/" target="_blank">World Health Organization - Virus Outbreak Data Network (VODAN) Brazilian Implementation Network</a></li>
-    <li><strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/" target="_blank">UFRJ Analytica</a></li>
-    <li><strong>Front-end Developer</strong> at <a href="https://ejcm.com.br/" target="_blank">EJCM Consulting (Junior Company)</a></li>
+    <li> 🇮🇹 <strong>Software Engineer</strong> at <a href="https://www.ingensrl.com/it/" target="_blank">INGEN Srl</a> </li>
+    <li> 🇧🇷 <strong>Researcher</strong> at <a href="https://www.gov.br/ibict/pt-br" target="_blank">Brazilian Institute of Information in Science and Technology (IBICT)</a></li>
+    <li> 🇧🇷 <strong>Data Engineer</strong> at <a href="https://vodanbr.github.io/" target="_blank">World Health Organization - Virus Outbreak Data Network (VODAN) Brazilian Implementation Network</a></li>
+    <li> 🇧🇷 <strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/" target="_blank">UFRJ Analytica</a></li>
+    <li> 🇧🇷 <strong>Front-end Developer</strong> at <a href="https://ejcm.com.br/" target="_blank">EJCM Consulting (Junior Company)</a></li>
   </ul>
 </p>
+
+<div align="center">
+  <h2> 🌍 Languages & Proficiency </h2>
+  
+  | Language         | Reading | Speaking | Writing |
+  |-----------------|---------|---------|---------|
+  | 🇧🇷 **Portuguese** | Native  | Native  | Native  |
+  | 🇬🇧 **English**    | C2      | C2      | C2      |
+  | 🇪🇸 **Spanish**    | B2      | B1      | B1      |
+  | 🇮🇹 **Italian**    | C1      | B2      | B2      |
+  | 🇯🇵 **Japanese**   | B2      | B1      | B2      |  
+</div>
 
 <br><br>
 
