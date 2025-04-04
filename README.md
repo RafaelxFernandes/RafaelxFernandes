@@ -26,9 +26,9 @@
   |-----------------|---------|---------|---------|
   | 🇧🇷 **Portuguese** | Native  | Native  | Native  |
   | 🇬🇧 **English**    | C2      | C2      | C2      |
-  | 🇪🇸 **Spanish**    | B2      | B1      | B1      |
+  | 🇪🇸 **Spanish**    | B2      | B1      | B2      |
   | 🇮🇹 **Italian**    | C1      | B2      | B2      |
-  | 🇯🇵 **Japanese**   | B2      | B1      | B2      |  
+  | 🇯🇵 **Japanese**   | B2      | B1      | B1      |  
 </div>
 
 <br><br>
