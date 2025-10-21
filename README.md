@@ -15,7 +15,7 @@
     <li> 🇧🇷 <strong>Researcher</strong> at <a href="https://www.gov.br/ibict/pt-br" target="_blank">Brazilian Institute of Information in Science and Technology (IBICT)</a></li>
     <li> 🇧🇷 <strong>Data Engineer</strong> at <a href="https://vodanbr.github.io/" target="_blank">World Health Organization - Virus Outbreak Data Network (VODAN) Brazilian Implementation Network</a></li>
     <li> 🇧🇷 <strong>Data Scientist</strong> at <a href="https://analytica.ufrj.br/" target="_blank">UFRJ Analytica</a></li>
-    <li> 🇧🇷 <strong>Front-end Developer</strong> at <a href="https://ejcm.com.br/" target="_blank">EJCM Consulting (Junior Company)</a></li>
+    <li> 🇧🇷 <strong>Full Stack Developer</strong> at <a href="https://ejcm.com.br/" target="_blank">EJCM Consulting (Junior Company)</a></li>
   </ul>
 </p>
 
