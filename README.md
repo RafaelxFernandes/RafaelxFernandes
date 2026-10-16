@@ -105,13 +105,6 @@ Passionate about **clean code**, **problem-solving** and **automation**.
   </picture>
 </p>
 
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelxFernandes/RafaelxFernandes/output/github-snake-dark.svg" />
-  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/RafaelxFernandes/RafaelxFernandes/output/github-snake.svg" />
-</picture>
-
 ## 💌 Get in touch
 
 <a href="mailto:rafafernandes4234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
