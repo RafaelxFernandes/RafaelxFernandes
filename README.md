@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rafael 👋</h1>
 
-- 💼 **Full Stack Developer** at **Easy Legal**, part of the [Vittoria Assicurazioni](https://www.vittoriaassicurazioni.com/) group
+- 💼 **Full Stack Developer** at [**Easy Legal**](https://www.easy-legal.it/), part of the [Vittoria Assicurazioni](https://www.vittoriaassicurazioni.com/) group
 - 🌱 Moving into **DevOps & Cloud**: Kubernetes, GitOps, Terraform
 - ☁️ **Azure Fundamentals (AZ-900)** ✅ · next up: **AZ-104** and **Docker**
 - 🧪 Learning in public: [**DevOps-Lab**](https://github.com/RafaelxFernandes/DevOps-Lab), a CI/CD + GitOps platform built step by step
@@ -19,7 +19,7 @@ Passionate about **clean code**, **problem-solving** and **automation**.
 
 | Role | Company | Period |
 |---|---|---|
-| 🇮🇹 **Full Stack Developer** | [Easy Legal](https://www.easy-legal.it/) (Vittoria Assicurazioni group) | Nov 2025 – present |
+| 🇮🇹 **Full Stack Developer** | [Easy Legal](https://www.easy-legal.it/) [(Vittoria Assicurazioni group)](https://www.vittoriaassicurazioni.com/) | Nov 2025 – present |
 | 🇮🇹 **Software Engineer** | [INGEN Srl](https://www.ingensrl.com/it/) | Mar 2023 – Nov 2025 |
 | 🇧🇷 **Researcher** | [Brazilian Institute of Information in Science and Technology (IBICT)](https://www.gov.br/ibict/pt-br) | Mar 2022 – Sep 2022 |
 | 🇧🇷 **Data Scientist** | [UFRJ Analytica](https://analytica.ufrj.br/) | Jul 2021 – Jul 2022 |
